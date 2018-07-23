@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "Fabri"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -10,11 +10,11 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "Buscando a perfeição em cada detalhe"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
-  authorwebsite = "http://vjeantet.fr"
+  author = "Fabri"
+  authorlocation = "São Paulo, Brasil"
+  authorwebsite = "https://fabrihouse.com"
   bio= "my bio"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
