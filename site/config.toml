@@ -11,6 +11,23 @@ canonifyurls = true
 copyright = "Todos os direitos reservados"
 pluralizelisttitles = false
 
+[[menu.main]]
+  name = "Página Inicial"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "Sobre Fabri"
+  weight = -110
+  identifier = "about"
+  url = "/about"
+  
+[[menu.main]]
+  name = "Instagram"
+  url = "https://www.instagram.com/fabri.house/"
+  weight = 101
+
 [params]
   description = "Buscando a perfeição em cada detalhe"
   #metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
