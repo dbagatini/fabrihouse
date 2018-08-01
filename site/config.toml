@@ -16,7 +16,7 @@ canonifyurls = true
   authorlocation = "São Paulo, Brasil"
   authorwebsite = "https://fabrihouse.com"
   bio= "my bio"
-  logo = "images/logo2b.png"
+  logo = "images/logo2c.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
