@@ -27,7 +27,7 @@
       {{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}
     </title>
 
-    <meta name="description" content="{{ .Site.Params.description }}" />
+    <meta name="description" content="{{ or .Site.Params.metadescription .Site.Params.description }}" />
 
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
