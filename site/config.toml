@@ -35,9 +35,9 @@ pluralizelisttitles = false
   author = "Daniel"
   authorlocation = "São Paulo, Brasil"
   authorwebsite = "https://fabrihouse.com"
-  authorbio = "Uma pessoa curiosa, que adora aprender e tentar coisas novas, em busca de bons momentos na beleza da joalheria artesanal."
+  #authorbio = "Uma pessoa curiosa, que adora aprender e tentar coisas novas, em busca de bons momentos na beleza da joalheria artesanal."
   #authoravatar = ""
-  #bio = "Uma pessoa curiosa, que adora aprender e tentar coisas novas, em busca de bons momentos na beleza da joalheria artesanal."
+  bio = "Uma pessoa curiosa, que adora aprender e tentar coisas novas, em busca de bons momentos na beleza da joalheria artesanal."
   logo = "images/logo2c.png"
   #googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
