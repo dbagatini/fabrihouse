@@ -11,4 +11,4 @@ O Fabri House é um projeto que pretende retomar um pouco desse trabalho tradici
 
 Cada joia artesanal é única, tanto em seus detalhes quanto em sua alma, pois ela leva dentro de si um pouco do ourives que a trouxe a esse mundo (e às suas mãos).
 
-O autor desse blog é um curioso, que está em busca de novos aprendizados e da paz que o trabalho manual e cuidadoso traz para o indivíduo. É na ourivessaria artesanal que ele busca um ponto de fuga de um mundo corrido e agitado, como uma forma de trazer mais beleza para seu próprio cotidiano e para a vida de outras pessoas.
+O autor desse blog é um curioso, que está em busca de novos aprendizados e da paz que o trabalho manual e cuidadoso traz para o indivíduo. É na ourivesaria artesanal que ele busca um ponto de fuga de um mundo corrido e agitado, como uma forma de trazer mais beleza para seu próprio cotidiano e para a vida de outras pessoas.
