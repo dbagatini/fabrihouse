@@ -3,7 +3,7 @@ body {
   font-family: 'EB Garamond', serif;
   font-weight: 300;
   font-size: 16px;
-  color: #555;
+  color: rgba(255,255,255,0.8);
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
 }
@@ -17,14 +17,14 @@ h5,
 h6 {
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
-  color: #333;
+  color: #f6f6f6;
 }
 
 /* Paragraph & Typographic */
 p {
-  line-height: 28px;
+  line-height: 30px;
   margin-bottom: 25px;
-  font-size: 20px;
+  font-size: 24px;
 }
 .centered {
   text-align: center;
@@ -32,7 +32,7 @@ p {
 
 /* Links */
 a {
-  color: #f39c12;
+  color: #e9e9e9;
   word-wrap: break-word;
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
   -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -42,7 +42,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #7b7b7b;
+  color: white;
   text-decoration: none;
   outline: 0;
 }
