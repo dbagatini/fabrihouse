@@ -12,7 +12,7 @@ googleAnalytics = ""
   
   # Background
   [params.background]
-    image = "assets/img/bg.jpg"
+    image = "images/cover.jpg"
 
     # Enable and set background fade speed
     [params.background.fade]
@@ -22,7 +22,7 @@ googleAnalytics = ""
   # Logo section
   [params.logo]
     enable = true
-    image = "images/logo2c.png"
+    image = "images/logo.png"
     alt = "FabriHouse"
     width = "100"
 
@@ -34,7 +34,7 @@ googleAnalytics = ""
   # Quote section
   [params.quote]
     enable = true
-    text = "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."
+    text = "Acredite em si mesmo! Tenha fé em suas habilidades! Com uma confiança humilde e sensata em suas capacidades você pode ser feliz."
 
   # Social icons section
   # Add a modifier class to increase size
