@@ -1,0 +1,50 @@
+baseurl = "/"
+languageCode = "pt-br"
+title = "Fabri"
+theme = "hugo-smpl-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
+# Enable Google Analytics by inserting your tracking code
+googleAnalytics = ""
+
+[params]
+  name = "Fabri"
+  description = "Num mundo industrializado, onde tudo é feito em lote, é difícil encontrar belos trabalhos artesanais e personalizados. O Fabri House é um projeto para aprender e divulgar a arte da confecção manual de joias, em todos seus detalhes e beleza."
+  
+  # Background
+  [params.background]
+    image = "assets/img/bg.jpg"
+
+    # Enable and set background fade speed
+    [params.background.fade]
+      enable = true
+      speed = 500
+
+  # Logo section
+  [params.logo]
+    enable = true
+    image = "images/logo2c.png"
+    alt = "FabriHouse"
+    width = "100"
+
+  # Header section
+  [params.header]
+    enable = true
+    title = "Fabri House"
+
+  # Quote section
+  [params.quote]
+    enable = true
+    text = "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."
+
+  # Social icons section
+  # Add a modifier class to increase size
+  # fa-lg, fa-2x, fa-3x, fa-4x, fa-5x
+  # e.g., icon = "fa-instagram fa-lg"
+  [params.social_icons]
+    enable = true
+
+  [[params.social]]
+    title = "Instagram"
+    icon = "fa-instagram"
+    link = "https://www.instagram.com/fabri.house/"
+
