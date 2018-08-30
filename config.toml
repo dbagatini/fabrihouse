@@ -34,7 +34,7 @@ googleAnalytics = ""
   # Quote section
   [params.quote]
     enable = true
-    text = "Acredite em si mesmo! Tenha fé em suas habilidades! Com uma confiança humilde e sensata em suas capacidades você pode ser feliz."
+    text = "Acredite em si mesmo! Tenha fé em suas habilidades! Com uma confiança humilde e sensata em suas capacidades você pode atingir seus objetivos e ser feliz."
 
   # Social icons section
   # Add a modifier class to increase size
