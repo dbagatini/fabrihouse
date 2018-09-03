@@ -6,9 +6,9 @@ draft: true
 
 **Um novo projeto ganha vida!**
 
-Num mundo corrido, muitas vezes, isso passa desapercebido, como uma flor que nasce em meio ao concreto e poucos notam. Essa correria, o estresse e a pressão do cotidiano podem fazer com que o mundo pareça menos belo e mais duro, sendo contra essa dureza que surje o Fabri House.
+Num mundo corrido, muitas vezes, isso passa desapercebido, como uma flor que nasce em meio ao concreto e poucos notam. Essa correria, o estresse e a pressão do cotidiano podem fazer com que o mundo pareça menos belo e mais duro. É contra essa dureza que surje o Fabri House.
 
-O Fabri House é um projeto individual, de uma pessoa que busca conhecer um pouco mais da ourivesaria tradicional. O objetivo principal é aprender técnicas manuais e tradicionais para a criação de joias e, com isso, disseminar a beleza tanto joia em si como de todo o processo usado em sua criação. 
+O Fabri House é um projeto individual, de uma pessoa que busca conhecer um pouco mais da ourivesaria tradicional e usá-la para brucar um pouco mais da beleza do dia-a-dia. O objetivo principal é aprender técnicas manuais e tradicionais para a criação de joias e, com isso, disseminar a beleza tanto joia em si como de todo o processo usado em sua criação. 
 
 ### Ourivessaria Tradicional
 
