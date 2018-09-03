@@ -44,12 +44,11 @@ googleAnalytics = ""
     enable = true
 
   [[params.social]]
-    title = "Instagram"
-    icon = "fa-instagram"
-    link = "https://www.instagram.com/fabri.house/"
-    
-  [[params.social]]
     title = "Blog"
     icon = "fa-comment"
     link = "https://blog.fabrihouse.com/"
-
+    
+  [[params.social]]
+    title = "Instagram"
+    icon = "fa-instagram"
+    link = "https://www.instagram.com/fabri.house/"
